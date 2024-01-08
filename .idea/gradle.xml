@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/banking-service" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/logging-consumer" />
+            <option value="$PROJECT_DIR$/membership-service" />
+            <option value="$PROJECT_DIR$/money-aggregation-service" />
+            <option value="$PROJECT_DIR$/money-query-service" />
+            <option value="$PROJECT_DIR$/money-service" />
+            <option value="$PROJECT_DIR$/payment-service" />
+            <option value="$PROJECT_DIR$/remittance-service" />
+            <option value="$PROJECT_DIR$/settlement-service" />
+            <option value="$PROJECT_DIR$/task-consumer" />
+            <option value="$PROJECT_DIR$/utility" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

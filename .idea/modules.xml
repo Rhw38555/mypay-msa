@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banking-service/my-pay.banking-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/banking-service/my-pay.banking-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/my-pay.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/my-pay.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logging-consumer/my-pay.logging-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/logging-consumer/my-pay.logging-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/membership-service/my-pay.membership-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/membership-service/my-pay.membership-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/money-aggregation-service/my-pay.money-aggregation-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/money-aggregation-service/my-pay.money-aggregation-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/money-query-service/my-pay.money-query-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/money-query-service/my-pay.money-query-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/money-service/my-pay.money-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/money-service/my-pay.money-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service/my-pay.payment-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service/my-pay.payment-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remittance-service/my-pay.remittance-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/remittance-service/my-pay.remittance-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/settlement-service/my-pay.settlement-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/settlement-service/my-pay.settlement-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-consumer/my-pay.task-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task-consumer/my-pay.task-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utility/my-pay.utility.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utility/my-pay.utility.main.iml" />
+    </modules>
+  </component>
+</project>

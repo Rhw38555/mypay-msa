@@ -1,0 +1,24 @@
+plugins {
+    id 'com.palantir.docker' version '0.25.0'
+}
+ext{
+    axonVersion = "4.6.0"
+}
+
+group = 'com.mypay.taskconsumer'
+version = '1.0.0'
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation project(path: ':common')
+
+    testImplementation 'junit:junit:4.13.1'
+}
+
+docker {
+    println(tasks.bootJar.outputs.files)
+    name rootProject.name+'-'+project.name + ":" + version
+    dockerfile file('../Dockerfile')
+    files tasks.bootJar.outputs.files
+    buildArgs(['JAR_FILE': tasks.bootJar.outputs.files.singleFile.name])
+}

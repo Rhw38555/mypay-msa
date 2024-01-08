@@ -1,0 +1,15 @@
+rootProject.name = 'my-pay'
+
+include 'membership-service'
+include 'common'
+include 'banking-service'
+include 'money-service'
+include 'logging-consumer'
+include 'task-consumer'
+include 'remittance-service'
+include 'payment-service'
+include 'utility'
+include 'money-aggregation-service'
+include 'money-query-service'
+include 'settlement-service'
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.5.2/69da26fe0e896d89feb388c425947c34416fde2e/spring-boot-configuration-processor-2.5.2.jar" />
+        </processorPath>
+        <module name="my-pay.money-service.main" />
+        <module name="my-pay.utility.main" />
+        <module name="my-pay.remittance-service.main" />
+        <module name="my-pay.money-query-service.main" />
+        <module name="my-pay.membership-service.main" />
+        <module name="my-pay.payment-service.main" />
+        <module name="my-pay.banking-service.main" />
+        <module name="my-pay.logging-consumer.main" />
+        <module name="my-pay.common.main" />
+        <module name="my-pay.money-aggregation-service.main" />
+        <module name="my-pay.task-consumer.main" />
+        <module name="my-pay.settlement-service.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
